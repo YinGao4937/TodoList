@@ -7,3 +7,9 @@ Introduce funtionalities as follow:
 3. Undo a dotoItem's status as undo
 4. Delete a dotoItem
 5. Edit a todoItem
+
+Major Tools used as follow:
+  Backend:
+    Django, RestFramework,
+  Frontend:
+    React, React-create-app, Axios.
