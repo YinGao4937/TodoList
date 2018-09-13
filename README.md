@@ -1,5 +1,7 @@
 # TodoList
-
+<html>
+    <body>
+    
 Introduce funtionalities as follow:
 
 1. Add one todoItem
@@ -8,15 +10,15 @@ Introduce funtionalities as follow:
 </p>
 2. Change a todoItem's status as done
 3. Undo a dotoItem's status as undo
- <p>
+<p align="center">
  <img src="DoneVunDo.gif" width="350" alt="accessibility text">
 </p>
 4. Delete a dotoItem
- <p>
+<p align="center">>
  <img src="del.gif" width="350" alt="accessibility text">
 </p>
 5. Edit a todoItem
- <p>
+<p align="center">
  <img src="EditSave.gif" width="350" alt="accessibility text">
 </p>
 Major Tools used as follow:
@@ -26,3 +28,5 @@ Major Tools used as follow:
     
   Frontend:
     React, React-create-app, Axios.
+    </body>
+</html>
