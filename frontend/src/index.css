@@ -1,0 +1,103 @@
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: rosybrown;
+  padding: 0 20px 20px 20px;
+  border: 5px solid greenyellow;
+}
+
+
+input.addtodo{
+  height: 45px;
+  font-size: 40px;
+  width: 510px;
+  margin: 2rem 0;
+  padding: .5rem;
+  border-radius: 10px;
+  border: 5px solid #4FC3F7; /* #ddd;*/
+}
+
+p{
+  font-size: 50px;
+  font-weight: bolder;
+  margin: 4px 3em;
+  color: #004D40;
+
+}
+
+td.label{
+  width: 50px;
+  height: 50px;
+}
+
+
+
+button.undo:valid:after{
+  width: 50px;
+  height: 50px;
+  content: '✓'; /*'✓';*/
+  font-size: 3em;
+  font-weight: bolder;
+  color: #26b72b;
+  padding-bottom: 0px;
+}
+
+button.done:valid:after{
+  width: 50px;
+  height: 50px;
+  content: '✓';/*'✖';*/
+  color: red;/*#f00;*/
+  font-size: 3em;
+  font-weight: bolder;
+  padding-left: 0px;
+}
+
+button.delete:valid:after{
+  width:45px;
+  height: 45px;
+  content: 'del';/*'✖';*/
+  color: red;/*#f00;*/
+  font-size: 2em;
+  font-weight: lighter;
+  padding-left: 0px;
+}
+
+td.title{
+  width:450px;
+
+}
+td.delete{
+  background-color:deepskyblue;
+
+}
+input.title{
+  width:480px;
+  height: 55px;
+  style:"border-style:none";
+  border: 0px;
+  font-size:1.95em;
+  margin-outside: 0 0;
+  padding: 0 0;
+  color: ghostwhite;
+  background-color:deepskyblue;
+}
+input.title::placeholder { color: black; font-size:1.2em;}
+
+td{
+  color: black;
+  padding: 0px 2px;
+  border: green;
+  margin: 0px 0px;
+  background-color: #82B1FF;
+  border-spacing: 2px;
+}
+legend {
+  font-size: 30px;
+  font-weight: bolder;
+  width: 120px;
+  height: 38px;
+  margin-top: 10px;
+  background-color: #000;
+  color: #fff;
+  padding: 3px 6px;
+}
