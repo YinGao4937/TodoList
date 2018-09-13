@@ -1,6 +1,6 @@
 # TodoList
 
-All funtionalities as follow:
+Introduce funtionalities as follow:
 
 1. Add one todoItem
 2. Change a todoItem's status as done
