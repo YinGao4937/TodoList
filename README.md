@@ -9,7 +9,9 @@ Introduce funtionalities as follow:
 5. Edit a todoItem
 
 Major Tools used as follow:
+  
   Backend:
     Django, RestFramework,
+    
   Frontend:
     React, React-create-app, Axios.
