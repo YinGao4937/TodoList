@@ -1,6 +1,6 @@
 # TodoList
 <html>
-    <body>
+    <body font-size=24px >
     
 Introduce funtionalities as follow:
 
