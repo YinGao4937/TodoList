@@ -1,32 +1,30 @@
 # TodoList
-<html>
-    <body font-size=24px >
-    
-Introduce funtionalities as follow:
 
-1. Add one todoItem
+    
+### Introduce funtionalities as follow:
+
+## 1. Add one todoItem
 <p align="center">
   <img src="Add.gif" width="350" title="hover text">
 </p>
-2. Change a todoItem's status as done
-3. Undo a dotoItem's status as undo
+## 2. Change a todoItem's status as done
+## 3. Undo a dotoItem's status as undo
 <p align="center">
  <img src="DoneVunDo.gif" width="350" alt="accessibility text">
 </p>
-4. Delete a dotoItem
+## 4. Delete a dotoItem
 <p align="center">>
  <img src="del.gif" width="350" alt="accessibility text">
 </p>
-5. Edit a todoItem
+## 5. Edit a todoItem
 <p align="center">
  <img src="EditSave.gif" width="350" alt="accessibility text">
 </p>
-Major Tools used as follow:
+## Major Tools used as follow:
   
-  Backend:
+  # Backend:
     Django, RestFramework,
     
-  Frontend:
+  # Frontend:
     React, React-create-app, Axios.
-    </body>
-</html>
+
